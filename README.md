@@ -24,7 +24,7 @@ It may work on other Unix like operating systems, but your mileage may differ.
 
 ## Usage
 
-If you'd like to install both ratbox and ratbox-services you can use the default recipe.
+If you'd like to install kiwiirc you can use the default recipe.
 
 Include `kiwiirc` in your node's `run_list`:
 
